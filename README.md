@@ -1,3 +1,13 @@
+# 💫 Hi 👋, I'm Mohit Upadhyay
+**A passionate Full Stack Developer
+
+Email Me 👉 ✉️ **codingsmasher29@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Jobkar
+- 🌱 **I’m currently learning:** Typescript
+- 🤔 **I’m looking for help with:** Your project here
+- 📫 **How to reach me:** codingsmasher29@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Exploring new Things
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohitup_29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-upadhyay-395a14311/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mohitupadhyay1025) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mohit_Upa29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codingsmasher29@gmail.com) 
