@@ -21,6 +21,13 @@ Email Me 👉 ✉️ **codingsmasher29@gmail.com** For Collaboration/Project or 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MohitByte29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MohitByte29&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
